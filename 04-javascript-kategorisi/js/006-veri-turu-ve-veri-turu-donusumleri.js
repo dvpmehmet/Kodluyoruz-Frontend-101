@@ -41,3 +41,5 @@ console.log("number4: ", number4, typeof(number4) )
 let number5 = 55
 number5 = number5.toString()
 console.log(number5, typeof(number5))
+
+//Değişken Türünü Kontrol Etmek ve Değişken Türünü Değiştirmek dersi.

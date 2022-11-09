@@ -39,7 +39,7 @@ function removeButton(){
 //ELEMAN EKLEMEK İÇİN GEREKENLER
 function elemanEkle() {
  
-    if (taskDOM.value == "")  {  // input değeri boş girildiğinde ve girilmediğinde 
+    if (taskDOM.value == "")  {  //input değeri boş girildiğinde ve girilmediğinde 
     $(".error").toast("show"); //"error"clasını kullanarak 
   } else {
     $(".success").toast("show");

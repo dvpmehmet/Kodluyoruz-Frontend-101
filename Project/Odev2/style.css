@@ -36,7 +36,7 @@
     text-decoration: line-through;
   }
   
-  ul li.checked::before {
+  ul li.checked::before{
     content: "";
     position: absolute;
     border-color: #fff;
